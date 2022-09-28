@@ -1,0 +1,30 @@
+﻿body {
+    font-family: cursive;
+    background-color: #e6ffe6;
+    color: black;
+}
+
+a {
+    color: #004d00;
+    text-decoration: none;
+    padding: 10px;
+}
+
+    a:hover {
+        font-size: 1.2em;
+        text-shadow: 1px 1px 10px #004d00;
+        border-radius: 10px;
+        text-decoration: none;
+        color: #003300;
+    }
+
+.nav-link:hover {
+    color: white;
+    background-color: #ccffcc;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.nav-link {
+    color: #b3ffb3 !important;
+}
